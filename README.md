@@ -6,6 +6,6 @@ $A$ owes $B$ 20$ \
 $B$ owes $C$ 20$ \
 $C$ owes $A$ 20$
 
-$A$'s ballance = 5 \
-$B$'s ballance = 0 \
-$C$'s ballance = 0
+$A$'s balance = 5 \
+$B$'s balance = 0 \
+$C$'s balance = 0
